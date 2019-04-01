@@ -2,7 +2,7 @@ export const LEADERS = [
 	{
 		id: 0,
 		name: 'Peter Pan',
-		image: './assets/images/nikhil.jpeg',
+		image: './assets/images/alberto.png',
 		designation: 'Chief Epicurious Officer',
 		abbr: 'CEO',
 		featured: false,
@@ -12,7 +12,7 @@ export const LEADERS = [
 	{
 		id: 1,
 		name: 'Dhanasekaran Witherspoon',
-		image: './assets/images/nikhil1.jpg',
+		image: './assets/images/buffet.png',
 		designation: 'Chief Food Officer',
 		abbr: 'CFO',
 		featured: false,
@@ -32,11 +32,11 @@ export const LEADERS = [
 	{
 		id: 3,
 		name: 'Alberto Somayya',
-		image: './assets/images/chef.jpg',
+		image: './assets/images/alberto.png',
 		designation: 'Executive Chef',
 		abbr: 'EC',
 		featured: true,
 		description:
-			'Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!'
+			'Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences.'
 	}
 ];
