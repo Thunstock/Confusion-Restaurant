@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Confusion-Restaurant/precache-manifest.03623697edd6a8aafdad8b3cee66bd34.js"
+  "/Confusion-Restaurant/precache-manifest.a1315872eff19d4ca4577f76cb8ae6fe.js"
 );
 
 workbox.clientsClaim();

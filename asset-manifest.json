@@ -1,7 +1,7 @@
 {
   "main.css": "/Confusion-Restaurant/static/css/main.be5e063b.chunk.css",
-  "main.js": "/Confusion-Restaurant/static/js/main.503b9fa9.chunk.js",
-  "main.js.map": "/Confusion-Restaurant/static/js/main.503b9fa9.chunk.js.map",
+  "main.js": "/Confusion-Restaurant/static/js/main.3d64bb1e.chunk.js",
+  "main.js.map": "/Confusion-Restaurant/static/js/main.3d64bb1e.chunk.js.map",
   "static/css/1.996b6509.chunk.css": "/Confusion-Restaurant/static/css/1.996b6509.chunk.css",
   "static/js/1.e72d577d.chunk.js": "/Confusion-Restaurant/static/js/1.e72d577d.chunk.js",
   "static/js/1.e72d577d.chunk.js.map": "/Confusion-Restaurant/static/js/1.e72d577d.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.be5e063b.chunk.css.map": "/Confusion-Restaurant/static/css/main.be5e063b.chunk.css.map",
   "static/css/1.996b6509.chunk.css.map": "/Confusion-Restaurant/static/css/1.996b6509.chunk.css.map",
   "index.html": "/Confusion-Restaurant/index.html",
-  "precache-manifest.03623697edd6a8aafdad8b3cee66bd34.js": "/Confusion-Restaurant/precache-manifest.03623697edd6a8aafdad8b3cee66bd34.js",
+  "precache-manifest.a1315872eff19d4ca4577f76cb8ae6fe.js": "/Confusion-Restaurant/precache-manifest.a1315872eff19d4ca4577f76cb8ae6fe.js",
   "service-worker.js": "/Confusion-Restaurant/service-worker.js"
 }
