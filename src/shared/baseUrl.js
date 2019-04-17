@@ -1,1 +1,1 @@
-export const baseUrl = 'https://thunstock.github.io/home';
+export const baseUrl = 'https://thunstock.github.io/Confusion-Restaurant/';
