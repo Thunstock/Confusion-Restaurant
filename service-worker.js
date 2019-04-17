@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/confusion-restaurant/precache-manifest.42d51fad3efda0be2cae3592c3286c5c.js"
+  "/Confusion-Restaurant/precache-manifest.03623697edd6a8aafdad8b3cee66bd34.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/confusion-restaurant/index.html", {
+workbox.routing.registerNavigationRoute("/Confusion-Restaurant/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
