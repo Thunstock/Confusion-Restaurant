@@ -8,8 +8,8 @@
   "runtime~main.js": "/confusion-restaurant/static/js/runtime~main.f602c85a.js",
   "runtime~main.js.map": "/confusion-restaurant/static/js/runtime~main.f602c85a.js.map",
   "static/media/font-awesome.min.css": "/confusion-restaurant/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/main.be5e063b.chunk.css.map": "/confusion-restaurant/static/css/main.be5e063b.chunk.css.map",
   "static/css/1.d44ac711.chunk.css.map": "/confusion-restaurant/static/css/1.d44ac711.chunk.css.map",
+  "static/css/main.be5e063b.chunk.css.map": "/confusion-restaurant/static/css/main.be5e063b.chunk.css.map",
   "index.html": "/confusion-restaurant/index.html",
   "precache-manifest.42d51fad3efda0be2cae3592c3286c5c.js": "/confusion-restaurant/precache-manifest.42d51fad3efda0be2cae3592c3286c5c.js",
   "service-worker.js": "/confusion-restaurant/service-worker.js"
