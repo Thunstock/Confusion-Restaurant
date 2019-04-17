@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3d64bb1e166207837b51",
+    "revision": "50545bb25ee3366e6e84",
     "url": "/Confusion-Restaurant/static/css/main.be5e063b.chunk.css"
   },
   {
-    "revision": "3d64bb1e166207837b51",
-    "url": "/Confusion-Restaurant/static/js/main.3d64bb1e.chunk.js"
+    "revision": "50545bb25ee3366e6e84",
+    "url": "/Confusion-Restaurant/static/js/main.50545bb2.chunk.js"
   },
   {
     "revision": "e72d577d1f0d0de8677a",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Confusion-Restaurant/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "6cd1a5dbbc9c30030a173ecb7673b3a6",
+    "revision": "10cbc615203b83b766455d8a5c62d432",
     "url": "/Confusion-Restaurant/index.html"
   }
 ];
